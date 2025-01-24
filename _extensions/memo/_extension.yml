@@ -22,8 +22,4 @@ contributes:
       template-partials:
         - before-title.tex
       format-resources:
-        - monash2.png
-        - MBSportrait.jpg
-        - EQUIS.png
-        - AMBA.png
-        - AACSB.png
+        - anziam.png
